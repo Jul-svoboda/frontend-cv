@@ -40,7 +40,7 @@ I have basic experience working in large teams, I learn quickly and am able to a
 * Three years of work as a technician at the State Scientific Research Institute of Aviation Systems
 
 * In this [project from ECCO](https://www.ecco.ru/about/career/), I was involved in the design of the mobile version and the adaptive layout of some parts
-* I have a little experience working on other small projects that you can view on my [Github]().
+* I have a little experience working on other small projects that you can view on my [Github](https://github.com/Jul-svoboda).
 
 ## Languages ##
 * Russian — Native
