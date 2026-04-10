@@ -1,3 +1,3 @@
-## Preview
+## Live Demo
 
-![App preview](https://jul-svoboda.github.io/frontend-cv/)
+https://jul-svoboda.github.io/frontend-cv/
