@@ -23,6 +23,7 @@ I have basic experience working in large teams, I learn quickly and am able to a
 * HTML5, CSS3 (Flexbox, Grid, responsive layout)
 * JavaScript (ES6+, DOM manipulation)
 * Git, GitHub
+* React
 * Figma
 * VS Code
 * Linux (basic)
