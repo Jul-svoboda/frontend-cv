@@ -29,7 +29,7 @@ Freelance Front-end Developer
 
 Developed responsive landing pages using HTML, CSS, and JavaScript
 Built and maintained UI components in collaboration with senior developers (subcontract work)
-Contributed to an ECCO e-commerce project (mobile layout and component implementation)
+Contributed to an ECCO (https://www.ecco.ru/about/career/) e-commerce project (mobile layout and component implementation)
 Worked with Figma designs and ensured cross-browser, responsive implementation
 Delivered small commercial projects under client requirements and deadlines
 State Scientific Research Institute of Aviation Systems
@@ -45,6 +45,7 @@ Photographer Landing Page
 
 Responsive landing page built from scratch (styling, interactivity).
 Stack: HTML, CSS, JavaScript
+
 [Live](https://photographers-portfolio228.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/Portfolio-photographer.git)
 
 React User List App
@@ -52,6 +53,7 @@ React User List App
 React application with form handling and REST API integration from remote server.
 Features: data fetching, dynamic rendering, basic state management
 Stack: React, JavaScript, API
+
 [Live](https://list-of-users335.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/user-list.git)
 
 
