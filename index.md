@@ -11,37 +11,56 @@ Frontend Developer
 * __Telegram:__ [Jul S](https://t.me/vVoXxx)
 
 ## About me ##
-I graduated from the Moscow Aviation Institute with a degree in Control Systems Engineering. Starting from the second year, I worked as a junior technical specialist at the State Scientific Research Institute of Aviation Systems, where I mainly worked on the development of neural networks in Python. My graduation project was based on Haar cascades and involved real-time recognition of license plates of moving objects.
-
-Later, I transferred my basic knowledge of Python to JavaScript and helped an experienced web developer with layout, basic design, and project development for large companies.
-
-At the same time, I studied at Sberbank School No. 21, which gave me an intensive and valuable learning experience, despite the fact that I was unable to complete the program due to illness.
-
-I have basic experience working in large teams, I learn quickly and am able to apply existing knowledge in new development environments.
+Front-end developer with a background in Control Systems Engineering and practical experience in JavaScript and React. Previously worked in a research institute developing Python-based neural network solutions and transitioned into web development through freelance work and collaboration with senior developers. Experienced in building responsive layouts, reusable UI components, and integrating REST APIs.
 
 ## Skills ##
 * HTML5, CSS3 (Flexbox, Grid, responsive layout)
 * JavaScript (ES6+, DOM manipulation)
 * Git, GitHub
 * React
+* REST API integration (fetch/axios)
 * Figma
-* VS Code
 * Linux (basic)
-* 3D Max, Kompas-3D
+
+## Experience ##
+Freelance Front-end Developer
+
+2022 – Present
+
+Developed responsive landing pages using HTML, CSS, and JavaScript
+Built and maintained UI components in collaboration with senior developers (subcontract work)
+Contributed to an ECCO e-commerce project (mobile layout and component implementation)
+Worked with Figma designs and ensured cross-browser, responsive implementation
+Delivered small commercial projects under client requirements and deadlines
+State Scientific Research Institute of Aviation Systems
+
+Technician (3 years)
+
+Developed Python-based neural network solutions for internal research tasks
+Worked on computer vision systems including real-time recognition projects
+Gained experience in engineering workflows and team-based development
+
+## Projects ##
+Photographer Landing Page
+
+Responsive landing page built from scratch (styling, interactivity).
+Stack: HTML, CSS, JavaScript
+[Live](https://photographers-portfolio228.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/Portfolio-photographer.git)
+
+React User List App
+
+React application with form handling and REST API integration from remote server.
+Features: data fetching, dynamic rendering, basic state management
+Stack: React, JavaScript, API
+[Live](https://list-of-users335.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/user-list.git)
+
 
 ## Education ##
 * University: Moscow Aviation Institute, Control Systems Engineering
 * Courses:
     * [Stepik JS](https://stepik.org/210361)
     * [Intensive from School 21](https://21-school.ru/)
-    * [Various videos on adaptive website layout](https://www.youtube.com/playlist?list=PLyPExaVR7sQt4KWsqUbxnbKF2tO50CGGF)
     * [JavaScript and Front-end Development course from Rolling Scopes School](https://rs.school/)
-
-## Experience ##
-* Three years of work as a technician at the State Scientific Research Institute of Aviation Systems
-
-* In this [project from ECCO](https://www.ecco.ru/about/career/), I was involved in the design of the mobile version and the adaptive layout of some parts
-* I have a little experience working on other small projects that you can view on my [Github](https://github.com/Jul-svoboda).
 
 ## Languages ##
 * Russian — Native
