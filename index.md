@@ -56,6 +56,14 @@ Stack: React, JavaScript, API
 
 [Live](https://list-of-users335.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/user-list.git)
 
+Online Store (in progress)
+
+Developing a React-based e-commerce application with product listing and shopping cart functionality.
+Implemented reusable layout components (header, footer) and core UI structure.
+Currently working on application logic, state management, and feature expansion.
+Stack: React, JavaScript
+
+Live: [link](https://online-store4545.netlify.app/) | GitHub: [link](https://github.com/Jul-svoboda/online-store.git)
 
 ## Education ##
 * University: Moscow Aviation Institute, Control Systems Engineering
