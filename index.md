@@ -42,24 +42,30 @@ Gained experience in engineering workflows and team-based development
 
 ## Projects ##
 Photographer Landing Page
+
 Stack: HTML, CSS, JavaScript
 
 Responsive landing page built from scratch (styling, interactivity).
+
 [Live](https://photographers-portfolio228.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/Portfolio-photographer.git)
 
 React User List App
+
 Stack: React, JavaScript, API
 
 React application with form handling and REST API integration from remote server.
 Features: data fetching, dynamic rendering, basic state management
+
 [Live](https://list-of-users335.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/user-list.git)
 
 Online Store (in progress)
+
 Stack: React, JavaScript, HTML, CSS
 
 Developing a React-based e-commerce application with product listing and shopping cart functionality.
 Implemented reusable layout components (header, footer) and core UI structure.
 Currently working on application logic, state management, and feature expansion.
+
 [Live](https://online-store4545.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/online-store.git)
 
 ## Education ##
