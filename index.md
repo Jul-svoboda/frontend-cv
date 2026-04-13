@@ -41,7 +41,7 @@ Worked on computer vision systems including real-time recognition projects
 Gained experience in engineering workflows and team-based development
 
 ## Projects ##
-Photographer Landing Page
+__Photographer Landing Page__
 
 Stack: HTML, CSS, JavaScript
 
@@ -49,7 +49,7 @@ Responsive landing page built from scratch (styling, interactivity).
 
 [Live](https://photographers-portfolio228.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/Portfolio-photographer.git)
 
-React User List App
+__React User List App__
 
 Stack: React, JavaScript, API
 
@@ -58,7 +58,7 @@ Features: data fetching, dynamic rendering, basic state management
 
 [Live](https://list-of-users335.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/user-list.git)
 
-Online Store (in progress)
+__Online Store (in progress)__
 
 Stack: React, JavaScript, HTML, CSS
 
