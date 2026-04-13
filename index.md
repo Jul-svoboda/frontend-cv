@@ -63,7 +63,7 @@ Implemented reusable layout components (header, footer) and core UI structure.
 Currently working on application logic, state management, and feature expansion.
 Stack: React, JavaScript
 
-Live: [link](https://online-store4545.netlify.app/) | GitHub: [link](https://github.com/Jul-svoboda/online-store.git)
+[Live](https://online-store4545.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/online-store.git)
 
 ## Education ##
 * University: Moscow Aviation Institute, Control Systems Engineering
