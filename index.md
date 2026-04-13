@@ -63,7 +63,7 @@ __Online Store (in progress)__
 Stack: React, JavaScript, HTML, CSS
 
 Developing a React-based e-commerce application with product listing and shopping cart functionality.
-Implemented reusable layout components (header, footer) and core UI structure.
+Implemented reusable layout components and core UI structure.
 Currently working on application logic, state management, and feature expansion.
 
 [Live](https://online-store4545.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/online-store.git)
