@@ -41,7 +41,7 @@ Worked on computer vision systems including real-time recognition projects
 Gained experience in engineering workflows and team-based development
 
 ## Projects ##
-__Photographer Landing Page__
+### Photographer Landing Page ###
 
 Stack: HTML, CSS, JavaScript
 
@@ -49,36 +49,35 @@ Responsive landing page built from scratch (styling, interactivity).
 
 [Live](https://photographers-portfolio228.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/Portfolio-photographer.git)
 
-__Online Store (Full-stack project, in progress)__
+### Online Store (Full-stack project, in progress)
 
 Stack: React, Node.js, Express, PostgreSQL, Sequelize, JWT, REST API, HTML, CSS
 
 Full-stack e-commerce application with a React frontend and a custom backend API. The system provides product management, user authentication, and administrative control over catalog data.
 
-_Backend features:_
+__Backend features:__
 
-*REST API with CRUD operations for products, brands, and categories
-*JWT-based authentication and authorization system
-*Role-based access for secure user actions
-*Advanced filtering and sorting by product type and brand
-*Custom error handling with centralized middleware
-*File upload and static serving for product images
-*Database management using PostgreSQL with Sequelize ORM
+- REST API with CRUD operations for products, brands, and categories
+- JWT-based authentication and authorization system
+- Role-based access for secure user actions
+- Advanced filtering and sorting by product type and brand
+- Custom error handling with centralized middleware
+- File upload and static serving for product images
+    Database management using PostgreSQL with Sequelize ORM
 
-_Frontend features:_
+__Frontend features:__
 
-*Product catalog with dynamic filtering
-*Shopping cart functionality
-*Reusable UI components
-*API integration with backend services
+* Product catalog with dynamic filtering
+* Shopping cart functionality
+* Reusable UI components
+* API integration with backend services
 
-Status: In development
-Frontend:
-[Live](https://list-of-users335.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/user-list.git)
-Backend:
-[Live](In development) | [GitHub](https://github.com/Jul-svoboda/online-store-api.git)
+Status: In development  
+     Frontend:
+     [Live](https://list-of-users335.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/user-list.git)  
+_Backend:_  [Live](In development) | [GitHub](https://github.com/Jul-svoboda/online-store-api.git)
 
-__React User List App__
+### React User List App
 
 Stack: React, JavaScript, API
 
@@ -86,16 +85,6 @@ React application with form handling and REST API integration from remote server
 Features: data fetching, dynamic rendering, basic state management
 
 [Live](https://list-of-users335.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/user-list.git)
-
-__Online Store (in progress)__
-
-Stack: React, JavaScript, HTML, CSS
-
-Developing a React-based e-commerce application with product listing and shopping cart functionality.
-Implemented reusable layout components and core UI structure.
-Currently working on application logic, state management, and feature expansion.
-
-[Live](https://online-store4545.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/online-store.git)
 
 ## Education ##
 * University: Moscow Aviation Institute, Control Systems Engineering
