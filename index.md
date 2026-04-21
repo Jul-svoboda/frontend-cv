@@ -49,6 +49,33 @@ Responsive landing page built from scratch (styling, interactivity).
 
 [Live](https://photographers-portfolio228.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/Portfolio-photographer.git)
 
+__Online Store (Full-stack project, in progress)__
+
+Stack: React, Node.js, Express, PostgreSQL, Sequelize, JWT, REST API, HTML, CSS
+
+Full-stack e-commerce application with a React frontend and a custom backend API. The system provides product management, user authentication, and administrative control over catalog data.
+
+_Backend features_
+REST API with CRUD operations for products, brands, and categories
+JWT-based authentication and authorization system
+Role-based access for secure user actions
+Advanced filtering and sorting by product type and brand
+Custom error handling with centralized middleware
+File upload and static serving for product images
+Database management using PostgreSQL with Sequelize ORM
+
+_Frontend features:_
+Product catalog with dynamic filtering
+Shopping cart functionality
+Reusable UI components
+API integration with backend services
+
+Status: In development
+Frontend:
+[Live](https://list-of-users335.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/user-list.git)
+Backend:
+[Live](In development) | [GitHub](https://github.com/Jul-svoboda/online-store-api.git)
+
 __React User List App__
 
 Stack: React, JavaScript, API
