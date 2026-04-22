@@ -73,8 +73,8 @@ __Frontend features:__
 * API integration with backend services
 
 Status: In development  
-     Frontend:
-     [Live](https://list-of-users335.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/user-list.git)  
+     _Frontend:_
+     [Live](https://online-store4545.netlify.app/) | [GitHub](https://github.com/Jul-svoboda/online-store.git)
 _Backend:_  [Live](In development) | [GitHub](https://github.com/Jul-svoboda/online-store-api.git)
 
 ### React User List App
